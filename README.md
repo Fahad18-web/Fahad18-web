@@ -1,9 +1,6 @@
 <img    alt="Banner"  width= " 400" src= "https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">A passionate frontend developer Based in Lahore,Pakistan</h3>
-
-<img  align=" right" alt="Coding"  width= " 400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad18-web&label=Profile%20views&color=0e75b6&style=flat" alt="fahad18-web" /> </p>
 
 - 💬 Ask me about **JavaScript , React js , Tailwind Css**
